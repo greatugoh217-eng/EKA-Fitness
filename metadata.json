@@ -1,0 +1,6 @@
+{
+  "name": "EKA Fitness Gym – Lagos Nigeria",
+  "description": "Premium modern fitness center in Egbe Lagos, Nigeria. Professional instructors, quality equipment, strength training, weight loss, and supportive community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
